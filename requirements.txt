@@ -1,0 +1,7 @@
+dnspython
+sys
+logging
+threading
+queue
+os
+
