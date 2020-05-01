@@ -14,4 +14,4 @@ python3 SubdomainTakeover.py Then You Enter Your File Containing All The Subdoma
   Vulnerable Then The File Will Be Empty.
   
   
-![](table 1-1.png?raw=true)
+![](Screenshot_2020-05-01_16-52-27.png?raw=true)
