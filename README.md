@@ -3,7 +3,7 @@ A Python3 Based Subdomain Takeover Scanner
 
 - How to Install:
   
-pip3 isntall -r requirements.txt
+pip3 install -r requirements.txt
   
   
 - How to Use:
